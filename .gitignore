@@ -3,3 +3,4 @@ uv.lock
 .python-version
 pyproject.toml
 main.py
+*/__pycache__
